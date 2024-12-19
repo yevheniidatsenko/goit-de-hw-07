@@ -95,7 +95,7 @@ The DAG consists of the following tasks:
 
 ---
 
-### Key Insights
+### Conclusions
 
 - The **primary tasks** (`create_medal_table`, `select_medal`, and one medal counting branch) are **consistently successful**.
 - The **delay_task** runs as expected, simulating a data processing pause.
